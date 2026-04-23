@@ -127,4 +127,5 @@ int main()
         cout << "1. Menambah data ke dalam list" << endl;
         cout << "2. Menghapus data dari dalam list" << endl;
         cout << "3. Menampilkan semua data didalam list" << endl;
-        
+        cout << "4. Mencari data dalam list" << endl;
+       
