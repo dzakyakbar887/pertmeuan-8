@@ -114,3 +114,14 @@ class linkedList
         }
     }
 };
+
+int main()
+{
+    linkedList mhs;
+    int nim;
+    char ch;
+
+    do
+    {
+        cout << "\nMenu" << endl;
+        cout << "1. Menambah data ke dalam list" << endl;
